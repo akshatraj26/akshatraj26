@@ -23,11 +23,11 @@
 ---
 
 ### 🚀 Featured Projects  
-🌐 [**WishOnTime**](https://github.com/akshatraj2607/WishOnTime) — A birthday wisher web app built with Django & TailwindCSS.  
-📊 [**Sales Insights Dashboard**](https://github.com/akshatraj2607/Sales-Insights) — Power BI project for data-driven decisions.  
-🤖 [**Email Spam Classifier**](https://github.com/akshatraj2607/Email-Spam-Classification) — Machine learning-based real-time spam detection API.  
-🧠 [**Signature Authenticity Detection**](https://github.com/akshatraj2607/Signature-Authenticity-Detection) — Deep learning-based signature verification using PyTorch.  
-🍳 [**Recipe API**](https://github.com/akshatraj2607/Django-Recipe-API) — Django REST API with authentication and Docker support.
+🌐 [**WishOnTime**](https://github.com/akshatraj26/WishOnTime) — A birthday wisher web app built with Django & TailwindCSS.  
+📊 [**Sales Insights Dashboard**](https://github.com/akshatraj26/sales_insights) — Power BI project for data-driven decisions.  
+🤖 [**Email Spam Classifier**](https://github.com/akshatraj26/Email-Spam-Classification) — Machine learning-based real-time spam detection API.  
+🧠 [**Signature Authenticity Detection**](https://github.com/akshatraj26/signature_detection) — Deep learning-based signature verification using PyTorch.  
+🍳 [**Recipe API**](https://github.com/akshatraj26/Django-Recipe-API) — Django REST API with authentication and Docker support.
 
 ---
 
